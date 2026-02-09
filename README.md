@@ -1,11 +1,19 @@
+# Data Structure Visualization site
 
-  # Untitled
+### Credits
 
-  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/kPLPfrx3Ad84RM541azPj5/Untitled.
+Aisha K $\gets$ Designer
 
-  ## Running the code
+Bhargav V $\gets$ Built and hosted the site
 
-  Run `npm i` to install the dependencies.
+Figma AI $\gets$ Lead Developer
 
-  Run `npm run dev` to start the development server.
-  
+Rio D $\gets$ The chill one
+
+Adam K $\gets$ Professional yapper that wanted to be here ig, tried supporting the documentation (didnt work), also ate ice cream during the superbowl
+
+
+
+### Info
+
+This is a code bundle for This site. The original project is available at https://www.figma.com/design/kPLPfrx3Ad84RM541azPj5/Untitled.and
